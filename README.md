@@ -1,5 +1,5 @@
 
-my name is Bastien 👦
+My name is Bastien 👦
 
 I am a Cyborg and a no life 🤖 👨‍💻
 
