@@ -1,14 +1,14 @@
 
-                                                                          My name is Bastien 👦
+                                                                      My name is Bastien 👦
 
-                                                                 I like the development and it's Cool 💻
+                                                              I like the development and it's Cool 💻
                                                                  
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                                               My skills
+                                                                           My skills
                                                                                                                                                        
-                                                                🐍 I have been studying python for 2 year 🐍
-                                                                   I have been studying C# for 5 Months
+                                                             🐍 I have been studying python for 2 year 🐍
+                                                                I have been studying C# for 5 Months
                                                                   
                                                                                
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
