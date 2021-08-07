@@ -8,7 +8,7 @@
                                                                            My skills
                                                                                                                                                        
                                                              🐍 I have been studying python for 2 year 🐍
-                                                                I have been studying C# for 5 Months
+                                                                I have been studying C# & c++ for 5 Months
                                                                   
                                                                                
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
